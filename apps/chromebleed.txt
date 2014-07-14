@@ -1,0 +1,3 @@
+Chromebleed
+https://chrome.google.com/webstore/detail/chromebleed/eeoekjnjgppnaegdjbcafdggilajhpic
+Displays a warning if a site or search result is affected by the Heartbleed bug.
