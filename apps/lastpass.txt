@@ -1,1 +1,3 @@
+LastPass: Free Password Manager
 https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd
+LastPass saves your passwords and gives you secure access from every computer and mobile device.
