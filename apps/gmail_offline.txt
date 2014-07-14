@@ -1,0 +1,3 @@
+Gmail Offline
+https://chrome.google.com/webstore/detail/gmail-offline/ejidjjhkpiempkbhmpbfngldlkglhimk
+Gmail Offline beta is a Gmail app built to support offline access, allowing mail to be read, responded to, searched and archived without network access.
