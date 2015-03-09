@@ -1,4 +1,4 @@
-# SixArm.com » Chrome » Apps
+# Chrome » Apps
 
 This repo tracks the Chrome apps that we use and like.
 
