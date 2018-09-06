@@ -1,0 +1,3 @@
+Redux DevTools
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+Power-ups for your Redux development workflow for debugging application's state changes.
