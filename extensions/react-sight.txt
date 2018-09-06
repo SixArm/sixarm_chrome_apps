@@ -1,0 +1,3 @@
+React Sight
+https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn/related
+Add a sidebar that displays React Component Hierarchy.
